@@ -18,8 +18,8 @@ An integrated Warehouse Management System (WMS) for a multi-warehouse company. T
 
 | Phase | Status |
 |-------|--------|
-| Phase 0 — Requirements & Architecture Discovery | 🔲 Pending |
-| Phase 1 — Database Architecture & Design | 🔲 Pending |
+| Phase 0 — Requirements & Architecture Discovery | ✅ Completed (See `docs/phase-0/`) |
+| Phase 1 — Database Architecture & Design | 🔲 Ready for Execution |
 | Phase 2 — Supabase Backend Foundation | 🔲 Pending |
 | Phase 3 — Flutter Project Foundation | 🔲 Pending |
 | Phase 4 — Authentication & Administration | 🔲 Pending |
