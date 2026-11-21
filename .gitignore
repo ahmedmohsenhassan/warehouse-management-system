@@ -1,0 +1,55 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Supabase
+supabase/.branches
+supabase/.temp
+
+# Environment
+.env
+.env.*
+!.env.example
+*.env
+
+# Android
+android/local.properties
+android/key.properties
+android/.gradle
+android/app/google-services.json
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/flutter_export_environment.sh
+ios/Runner.xcworkspace/
+*.ipa
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Generated files (keep pubspec.lock in git)
+*.g.dart
+*.freezed.dart
+
+# Secrets
+google-services.json
+GoogleService-Info.plist
+service-account.json
